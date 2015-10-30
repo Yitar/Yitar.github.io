@@ -12,11 +12,10 @@ baseurl: ""
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     heiligenschein
 github_username:    Yitar
-#twitter_username:  helloYitar
-facebook_username:  SeeYourHalo
+twitter_username:  helloYitar
 
 
 
