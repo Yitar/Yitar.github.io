@@ -4,7 +4,7 @@ SEOTitle: Yitar's Blog
 header-img: img/home-bg.jpg
 email: w.yitar@gmail.com
 description: " "
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+keyword: ""
 url: "https://yitar.me"
 enforceurl: yitar.me
 baseurl: ""
@@ -54,33 +54,4 @@ ga_domain: https://yitar.me
 
 
 
-# Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
-sidebar-about-description: ""
-sidebar-avatar: /img/avatar-hux.jpg     # use absolute URL.
 
-
-
-# Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-
-
-# Friends
-<!--friends: [
-    {
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    }
-]
--->
