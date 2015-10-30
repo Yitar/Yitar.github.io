@@ -51,6 +51,16 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ga_track_id: 'UA-69507749-1'            # Format: UA-xxxxxx-xx
 ga_domain: https://yitar.me
 
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar-avatar: /img/avatar-hux.jpg     # use absolute URL.
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
 
