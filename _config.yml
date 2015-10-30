@@ -6,7 +6,7 @@ email: w.yitar@gmail.com
 description: " "
 keyword: ""
 url: "https://yitar.me"
-enforceurl: yitar.me
+enforce_ssl: yitar.me
 baseurl: ""
 
 
