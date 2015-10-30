@@ -53,8 +53,8 @@ ga_domain: https://yitar.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg     # use absolute URL.
+sidebar-about-description: "Code, Dota, Life"
+sidebar-avatar: /img/yitar.jpg     # use absolute URL.
 
 
 
