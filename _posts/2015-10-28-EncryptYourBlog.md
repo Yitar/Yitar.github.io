@@ -2,7 +2,7 @@
 layout:     post
 title:      "为你的博客启用 HTTPS"
 subtitle:   ""
-date:       2015-10-24
+date:       2015-10-28
 author:     "Yitar"
 header-img: ""
 tags:
@@ -67,7 +67,7 @@ tags:
 ###实用技巧
 在你的博客使用 https 之后，你会发现类似于网易云音乐之类的外链 iframe 播放器会无法加载（ html 5的暂时都好丑），提示试图从未经验证的来源加载脚本。你可以把生成的外链也改为 https 类。在 Markdown 语法下正确的 https 网易云音乐外链示范如下：
 <p>
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=2001325&auto=0&height=66"></iframe>
+    <code><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=2001325&auto=0&height=66"></iframe></code>
 </p>
 显示效果如下
 
