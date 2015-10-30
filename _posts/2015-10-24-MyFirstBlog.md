@@ -6,9 +6,9 @@ date:       2015-10-24
 author:     "Yitar"
 header-img: ""
 tags:
-    - FirstCommit
-    - Jekyll
-    - Blog
+    - First Blog
+    -
+    -
 ---
 
 
