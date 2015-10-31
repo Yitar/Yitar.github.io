@@ -11,6 +11,12 @@
     <meta name="keyword"  content="{{ site.keyword }}">
     <link rel="shortcut icon" href="img/favicon.ico">
 
+    <!-- Highlight.js -->
+    {% if site.highlight %}
+    <link rel="stylesheet" href="{{ site.url }}/js/highlight/styles/sunburst.css">
+    <script src="{{ site.url }}/js/highlight/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>{% endif %}
+
     <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
 
     <link rel="canonical" href="https://yitar.me">
