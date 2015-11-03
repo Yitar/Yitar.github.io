@@ -4,7 +4,7 @@ title:      "为你的博客启用 HTTPS"
 subtitle:   ""
 date:       2015-10-28
 author:     "Yitar"
-header-img: "ssl.jpg"
+header-img: "img/EncryptYourBlog.jpg"
 tags:
     - HTTPS
     - SSL
