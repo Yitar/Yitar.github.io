@@ -66,7 +66,9 @@ tags:
 
 你也可以在你的 Cloudflare 账户当前网站的仪表盘设置中找到 PageRules 添加强制 https 重定向，开启 Forwarding 并添加你的 https 地址即可。
 
-### 至此，你已经拥有了免费的安全的博客了。
+**至此，你已经拥有了免费的安全的博客了。**
+
+-----
 
 
 ### 实用技巧
@@ -79,5 +81,4 @@ tags:
 
 显示效果如下
 
-----
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=2001325&auto=0&height=66"></iframe>
