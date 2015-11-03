@@ -4,7 +4,7 @@ title:      "适逢生辰，博客开篇"
 subtitle:   ""
 date:       2015-10-24
 author:     "Yitar"
-header-img: ""
+header-img: "img/MyFirstBlog.jpg"
 tags:
     - First Blog
     -
