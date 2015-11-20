@@ -69,5 +69,9 @@ friends: [
     {
         title: "寰宇的博客",
         href: "http://www.devhy.com"
+    },{
+        title: "蒲春伟的博客",
+        href: "http://blog.csdn.net/u011427518"
     }
+    
 ]
