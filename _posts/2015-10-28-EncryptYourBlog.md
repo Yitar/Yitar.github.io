@@ -36,7 +36,7 @@ tags:
     url: https://yitar.me
     enforce_ssl: yitar.me
 ```
-确保你的链接是 `canonical` 的在 `<head>` 下面：
+确保你的链接为 `canonical` 的在 `<head>` 下面：
 
 
     <link rel="canonical" href=" { { site.url } }{ { page.url } }" />
@@ -76,9 +76,11 @@ tags:
 在你的博客使用 https 之后，你会发现类似于网易云音乐之类的外链 iframe 播放器会无法加载（ html 5的暂时都好丑），提示试图从未经验证的来源加载脚本。你可以把生成的外链也改为 https 类。在 Markdown 语法下正确的 https 网易云音乐外链示范如下：
 
 ```html
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=2001325&auto=0&height=66"></iframe>
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=2001325&auto=0&height=66">
+    </iframe>
 ```
 
 显示效果如下
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=2001325&auto=0&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=2001325&auto=0&height=66">
+</iframe>
