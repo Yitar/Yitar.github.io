@@ -7,7 +7,7 @@ description: " "
 keyword: ""
 url: "https://yitar.me"
 enforce_ssl: yitar.me
-baseurl: ""
+baseurl: "https://yitar.me"
 
 
 
