@@ -4,7 +4,7 @@ title:      "Java中抽象类和接口的区别"
 subtitle:   ""
 date:       2015-11-05
 author:     "Yitar"
-header-img: ""
+header-img: "img/abstractClassANDInterface.jpg"
 tags:
     - interface
     - abstract class
